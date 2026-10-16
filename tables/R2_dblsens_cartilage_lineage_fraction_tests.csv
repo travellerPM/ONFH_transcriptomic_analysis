@@ -1,0 +1,7 @@
+"comparison","value","note"
+"A_vs_B_fisher_cell_level",2.67496263289907e-14,"descriptive cell-level test; donor is the biological unit"
+"A_vs_B_fisher_OR",0.705898747821835,"odds of doublet in A vs B"
+"A_vs_B2exclUndetermined_fisher_cell_level",1.42216692848536e-23,"sensitivity comparator"
+"A_vs_B2exclUndetermined_fisher_OR",0.628189604352361,"odds of doublet in A vs B2"
+"A_vs_B_paired_wilcoxon_donor_level",0.84375,"paired by donor, n=6"
+"n_complete_pairs",6,"donors with cells in both groups"

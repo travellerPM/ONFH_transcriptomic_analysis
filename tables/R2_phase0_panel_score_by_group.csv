@@ -1,0 +1,4 @@
+"group","n","pct_fibroblast_panel_higher","pct_chondrocyte_panel_higher","mean_fibroblast_panel_expr","mean_chondrocyte_panel_expr"
+"A_Fibrocartilage_dominant",7149,100,0,3.327,1.11
+"B_Other_cartilage_lineage",29899,94.5,5.5,1.464,0.782
+"C_Other_fibrocartilage_candidate",20262,68.1,31.8,2.109,1.609

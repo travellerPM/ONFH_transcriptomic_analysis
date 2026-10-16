@@ -1,0 +1,5 @@
+"signature","n_genes","control_mean","onfh_mean","disease_diff","wilcoxon_p"
+"Hallmark_EMT",196,0.1729,0.2278,0.0548,"<2e-16"
+"Generic_ECM",77,0.0872,0.1862,0.0989,"<2e-16"
+"Generic_Fibroblast",84,0.0952,0.1045,0.0093,"<2e-16"
+"Fibrocartilage_program",24,0.1067,0.2631,0.1564,"<2e-16"

@@ -1,0 +1,7 @@
+"sample_id","donor_id","condition","n_raw","n_phase0_qc","n_fibroblast_phase0","n_chondrocyte_phase0","n_macrophage_phase0","n_chondrocyte_phase05","n_macrophage_phase05","n_final","n_removed_after_phase05","removed_matches_phase05_macrophage"
+"A-01","Ctrl-1","control",6076,5892,3905,1987,0,5892,0,5892,0,TRUE
+"A-02","ONFH-1","ONFH",9756,9232,5907,3325,0,9225,7,9225,7,TRUE
+"A-03","Ctrl-2","control",16963,15838,10591,5247,0,15838,0,15838,0,TRUE
+"A-06","ONFH-2","ONFH",11526,10182,8723,1333,126,10023,159,10023,159,TRUE
+"A-07","Ctrl-3","control",9629,9458,6546,2912,0,9458,0,9458,0,TRUE
+"A-08","ONFH-3","ONFH",8312,6874,2913,3961,0,6874,0,6874,0,TRUE

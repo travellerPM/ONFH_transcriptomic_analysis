@@ -1,0 +1,6 @@
+"program","n_genes","observed_mean_score","null_mean_score","null_sd","z_score","empirical_p_score","observed_disease_diff","null_mean_disease_diff","null_sd_disease_diff","z_score_disease_diff","empirical_p_disease_diff"
+"Homeostatic",24,0.1694,0.2744,0.0184,-5.7,0.001998001998002,0.1398,-0.0047,0.024,6.03,0.001998001998002
+"Fibrocartilage",24,0.1849,0.2391,0.0156,-3.47,0.003996003996004,0.1564,-0.0065,0.0201,8.12,0.001998001998002
+"Inflammatory",35,0.0385,0.0448,0.006,-1.05,0.281718281718282,0.0405,0.001,0.007,5.61,0.001998001998002
+"Pre_hypertrophic",26,0.3503,0.4189,0.0161,-4.27,0.001998001998002,-0.1991,-0.0542,0.0231,-6.28,0.001998001998002
+"Hypertrophic_osteogenic",14,0.2989,0.388,0.0252,-3.53,0.001998001998002,-0.1119,-0.0193,0.0326,-2.84,0.003996003996004

@@ -1,0 +1,7 @@
+"donor_id","condition","n_cells_before","n_doublet","n_singlet","doublet_rate","mean_doublet_score"
+"Ctrl-1","Control",5892,357,5535,6.06,0.2797
+"Ctrl-2","Control",15838,2010,13828,12.69,0.2118
+"Ctrl-3","Control",9458,976,8482,10.32,0.234
+"ONFH-1","ONFH",9225,870,8355,9.43,0.2056
+"ONFH-2","ONFH",10023,1000,9023,9.98,0.2018
+"ONFH-3","ONFH",6874,484,6390,7.04,0.2622

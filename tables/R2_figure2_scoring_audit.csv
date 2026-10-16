@@ -1,0 +1,8 @@
+"figure","algorithm","level","label_was_correct","consistent_with_Results_3_2_text","note"
+"Fig2_module_scores.svg","UCell","cell (n=57,310)",TRUE,FALSE,"title states UCell; keep only if text quotes UCell statistics"
+"Fig2b_umap_feature_scores.svg","UCell","cell (n=57,310)",TRUE,FALSE,"no algorithm label; 0-0.6 non-negative scale = UCell"
+"R2_Fig_donor_scores.svg","AddModuleScore (MS_1-5)","donor (n=6)",FALSE,TRUE,"data are AddModuleScore but y axis said 'UCell score' - label bug"
+"R2_Fig_donor_scores_bar.svg","AddModuleScore (MS_1-5)","donor (n=6)",FALSE,TRUE,"same label bug"
+"R2_Fig_donor_scores_corrected.svg","AddModuleScore (MS_1-5)","donor (n=6)",TRUE,TRUE,"corrected label; data unchanged"
+"Fig2_module_scores_donor_AddModuleScore.svg","AddModuleScore (MS_2)","donor (n=6)",TRUE,TRUE,"matches text values 0.556 vs 1.830 (MS_2 donor means)"
+"Fig2_module_scores_donor_UCell.svg","UCell","donor (n=6)",TRUE,FALSE,"UCell counterpart: 0.407 vs 0.706, Welch p=0.0094, d=7.43"

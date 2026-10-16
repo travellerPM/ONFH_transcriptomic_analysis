@@ -1,0 +1,7 @@
+"sample_id","donor_id","condition","n_cells_raw","n_cells_after_QC","n_cells_raw_phase0","n_cells_after_QC_phase0","n_fibroblast_phase0","n_chondrocyte_phase0","n_macrophage_phase0","n_cells_final","n_cartilage_lineage","n_fibrocartilage_candidate"
+"A-01","Ctrl-1","control",6076,5892,6076,5892,3905,1987,0,5892,5757,135
+"A-02","ONFH-1","ONFH",9756,9232,9756,9232,5907,3325,0,9225,77,9148
+"A-03","Ctrl-2","control",16963,15838,16963,15838,10591,5247,0,15838,14880,958
+"A-06","ONFH-2","ONFH",11526,10182,11526,10182,8723,1333,126,10023,34,9989
+"A-07","Ctrl-3","control",9629,9458,9629,9458,6546,2912,0,9458,9160,298
+"A-08","ONFH-3","ONFH",8312,6874,8312,6874,2913,3961,0,6874,7,6867

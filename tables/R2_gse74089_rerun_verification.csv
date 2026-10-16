@@ -1,0 +1,11 @@
+"check","original","rerun"
+"n_probes_input",34183,34183
+"n_probes_with_symbol",35607,35607
+"n_unique_genes",20401,20401
+"n_genes_tested",20401,20401
+"n_significant_adjP05",8952,8952
+"spearman_rho_logFC",NA,1
+"max_abs_diff_logFC",NA,4.66293670342566e-15
+"spearman_rho_pvalue",NA,1
+"n_sig_overlap",8952,8952
+"top20_identical",NA,1

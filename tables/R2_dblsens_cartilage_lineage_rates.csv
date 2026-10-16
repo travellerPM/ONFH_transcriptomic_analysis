@@ -1,0 +1,6 @@
+"group_definition","n_cells","n_doublets","doublet_pct","note"
+"A_Fibrocartilage_dominant",7149,578,8.08504685970066,""
+"B_Other_cartilage_lineage",29899,3313,11.0806381484331,""
+"B2_B_without_Undetermined",21005,2580,12.2827898119495,""
+"C_Other_fibrocartilage_candidate",20262,1806,8.91323660053302,""
+"REF_previous_Other_cells_all_non_fibro",50161,5119,10.2051394509679,"reference: previous R2_dblsens definition (all non-fibrocartilage cells)"

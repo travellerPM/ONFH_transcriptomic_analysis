@@ -1,0 +1,4 @@
+"donor_id","condition","n_cells_before","n_doublet","n_singlet","doublet_rate","mean_doublet_score"
+"SIONFH-1","SIONFH",23,0,23,0,0.5421
+"SIONFH-2","SIONFH",2003,91,1912,4.54,0.2441
+"SIONFH-3","SIONFH",86,2,84,2.33,0.5793

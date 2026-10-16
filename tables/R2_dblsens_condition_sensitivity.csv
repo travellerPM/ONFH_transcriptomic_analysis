@@ -1,0 +1,6 @@
+"analysis","value"
+"S1_A_vs_C_cell_level_fisher","A: 8.09% (7149 cells) vs C: 8.91% (20262 cells); Fisher p=0.0337, OR=0.899 [descriptive; cells not independent]"
+"S1_A_vs_C_donor_paired_wilcoxon","n pairs = 6/6; p = 0.59; per-donor A%: 0.00/15.38/0.00/9.41/8.43/4.91; C%: 0.74/2.93/0.00/9.53/10.68/7.63"
+"S2_A_vs_B_within_ONFH_cell_level_fisher","A(ONFH): 8.08% (7133 cells) vs B(ONFH): 0.88% (114 cells); Fisher p=0.00139, OR=9.925 [B(ONFH) n very small; unstable]"
+"S3_condition_within_cartilage_lineage","ONFH: 0.85% (118 cells) vs Control: 11.12% (29797 cells); Fisher p=2.45e-05, OR=0.068 [descriptive]"
+"S3_condition_within_cartilage_fibrocartilage_candidate","ONFH: 9.05% (26004 cells) vs Control: 2.23% (1391 cells); Fisher p=2.34e-24, OR=4.365 [descriptive]"

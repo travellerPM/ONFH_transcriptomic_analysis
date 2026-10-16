@@ -1,0 +1,7 @@
+"sample_id","donor_id","condition","n_cells_total","n_cartilage_lineage","n_fibrocartilage_candidate","n_fibrocartilage_dominant","pct_fibrocartilage_dominant"
+"A-01","Ctrl-1","Control",5892,5757,135,1,0.0169721656483367
+"A-03","Ctrl-2","Control",15838,14880,958,13,0.0820810708422781
+"A-07","Ctrl-3","Control",9458,9160,298,2,0.0211461196870374
+"A-02","ONFH-1","ONFH",9225,77,9148,2678,29.029810298103
+"A-06","ONFH-2","ONFH",10023,34,9989,2988,29.8114337024843
+"A-08","ONFH-3","ONFH",6874,7,6867,1467,21.3412860052371

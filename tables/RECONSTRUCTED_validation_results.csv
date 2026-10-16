@@ -1,0 +1,6 @@
+"check","result"
+"V1_AddModuleScore_recompute","per-cell Spearman MS_i vs RC_i = 1.000/1.000/1.000/1.000/1.000; max donor-mean |diff| (MS_2) = 0.0000; vs donor_module_scores.csv = 0.0000"
+"V2_edgeR_pseudobulk_recompute","n genes compared = 18450; Spearman rho(logFC) = 0.9999; FDR<0.05 Jaccard = 0.826 (old 2340, new 1970 sig)"
+"V3_cluster_structure","res 0.4 clusters = 13 (documented 13): TRUE; res columns present: 0.2/0.3/0.4/0.5/0.6/0.8; no integration (single RNA assay)"
+"V4_QC_reconciliation","57,476 QC'd (JSON) - 166 phase-0.5 Macrophage = 57,310 final; per-donor exact (R2_cell_annotation_provenance.csv, 6/6 TRUE)"
+"V5_AUCell_columns","AU_ columns populated for 0/57,310 cells (parameters.md: AUCell omitted at 57k cells)"

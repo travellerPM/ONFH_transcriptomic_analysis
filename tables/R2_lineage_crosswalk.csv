@@ -1,0 +1,204 @@
+"stage","sample_id","donor_id","cluster","call","fib_score","chond_score","n_cells","rationale"
+"phase0_per_sample","A-01","Ctrl-1","0","chondrocyte",3.13173182950272,3.4699711243606,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","1","fibroblast",2.85762670860275,1.69525483952282,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","2","fibroblast",2.74333834453558,1.71861940851877,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","3","fibroblast",2.98699249647801,2.31474093614805,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","4","chondrocyte",2.85499220064598,3.2328195528537,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","5","fibroblast",3.13860395124197,2.96910494304898,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","6","chondrocyte",3.15821607470001,3.9433486158443,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","7","fibroblast",2.54074268184074,1.02867412383365,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","8","fibroblast",2.36942675571189,1.47939304890864,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","9","fibroblast",3.08559095531381,2.92178162729317,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","10","fibroblast",1.99562635665607,1.27616511662165,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","11","fibroblast",2.41177489487139,1.30089518316629,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","12","fibroblast",2.95717921276066,2.57256684881836,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","13","chondrocyte",2.98451022165938,3.47933364462092,NA,NA
+"phase0_per_sample","A-01","Ctrl-1","14","fibroblast",3.03915561267556,2.41887066547926,NA,NA
+"phase0_per_sample","A-02","ONFH-1","0","fibroblast",7.09445779911022,2.65008977392331,NA,NA
+"phase0_per_sample","A-02","ONFH-1","1","fibroblast",4.57670452951975,2.69646340038004,NA,NA
+"phase0_per_sample","A-02","ONFH-1","2","fibroblast",5.72669541239161,4.17886807347753,NA,NA
+"phase0_per_sample","A-02","ONFH-1","3","fibroblast",7.41191230898607,2.71816273103809,NA,NA
+"phase0_per_sample","A-02","ONFH-1","4","fibroblast",4.91322393281988,1.91726642559091,NA,NA
+"phase0_per_sample","A-02","ONFH-1","5","fibroblast",6.80201677833193,2.51266417417821,NA,NA
+"phase0_per_sample","A-02","ONFH-1","6","chondrocyte",4.18390589741305,4.31634122070547,NA,NA
+"phase0_per_sample","A-02","ONFH-1","7","chondrocyte",4.58385022934501,5.01278324827707,NA,NA
+"phase0_per_sample","A-02","ONFH-1","8","fibroblast",7.56528804091659,3.08201488739661,NA,NA
+"phase0_per_sample","A-02","ONFH-1","9","chondrocyte",4.01168513652706,4.33624543252898,NA,NA
+"phase0_per_sample","A-02","ONFH-1","10","fibroblast",4.44815096350217,3.39892196204129,NA,NA
+"phase0_per_sample","A-02","ONFH-1","11","fibroblast",3.40656225659764,1.6700029035367,NA,NA
+"phase0_per_sample","A-02","ONFH-1","12","chondrocyte",5.13717929420689,5.614382665341,NA,NA
+"phase0_per_sample","A-02","ONFH-1","13","fibroblast",4.35819858221436,3.93554252573452,NA,NA
+"phase0_per_sample","A-02","ONFH-1","14","chondrocyte",4.22567246096407,5.68835806023497,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","0","fibroblast",3.26430427568624,3.14712272852253,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","1","fibroblast",2.74640479320301,0.993373738869226,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","2","chondrocyte",3.33509226130675,3.56801797535671,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","3","fibroblast",2.73866430652187,1.48858880219417,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","4","chondrocyte",3.16306224904562,3.48156545791165,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","5","fibroblast",2.678008431661,2.45503407227918,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","6","fibroblast",3.18126812629475,2.05823115202321,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","7","chondrocyte",3.1530025839252,3.15640357200958,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","8","fibroblast",2.84891374264019,1.74167521321797,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","9","fibroblast",3.27191091112679,2.32439284958297,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","10","chondrocyte",3.16441788121009,3.67640121195681,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","11","fibroblast",3.28513366749691,2.55826149019455,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","12","fibroblast",2.79866418492888,1.1717087816416,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","13","fibroblast",3.07913040637586,1.93388336223594,NA,NA
+"phase0_per_sample","A-03","Ctrl-2","14","fibroblast",3.3021353930788,2.99835062118931,NA,NA
+"phase0_per_sample","A-06","ONFH-2","0","fibroblast",8.07476048992517,2.44113681369038,NA,NA
+"phase0_per_sample","A-06","ONFH-2","1","fibroblast",4.82518820339415,3.41715779416018,NA,NA
+"phase0_per_sample","A-06","ONFH-2","2","chondrocyte",5.26182398510801,7.15004483614548,NA,NA
+"phase0_per_sample","A-06","ONFH-2","3","fibroblast",6.12528913803347,3.96054797591871,NA,NA
+"phase0_per_sample","A-06","ONFH-2","4","fibroblast",5.1358128594632,1.90705838728904,NA,NA
+"phase0_per_sample","A-06","ONFH-2","5","fibroblast",4.84871502064079,2.20105504650271,NA,NA
+"phase0_per_sample","A-06","ONFH-2","6","fibroblast",7.20847764164175,3.55542097350921,NA,NA
+"phase0_per_sample","A-06","ONFH-2","7","macrophage",2.56765105306308,0.967553390016327,NA,NA
+"phase0_per_sample","A-06","ONFH-2","8","fibroblast",7.79323750300978,3.36725526120633,NA,NA
+"phase0_per_sample","A-06","ONFH-2","9","fibroblast",6.37790632629394,2.72268872015974,NA,NA
+"phase0_per_sample","A-06","ONFH-2","10","fibroblast",5.28971938690141,3.09427758166268,NA,NA
+"phase0_per_sample","A-06","ONFH-2","11","fibroblast",7.86224275534972,3.62594106267718,NA,NA
+"phase0_per_sample","A-06","ONFH-2","12","fibroblast",7.6605129242618,2.59145519823443,NA,NA
+"phase0_per_sample","A-06","ONFH-2","13","fibroblast",4.94367791644669,4.51443428995385,NA,NA
+"phase0_per_sample","A-06","ONFH-2","14","chondrocyte",4.68521454294397,6.73208967289345,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","0","chondrocyte",3.18163671940595,3.84199177196553,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","1","fibroblast",3.08181052118675,1.06508486683904,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","2","fibroblast",3.36586050922464,2.65311033249743,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","3","fibroblast",2.79087898718006,1.70355071272679,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","4","fibroblast",3.13912887203612,1.90788522513349,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","5","fibroblast",3.12166379417868,1.78480667162807,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","6","chondrocyte",3.24363411913973,3.92020118508083,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","7","fibroblast",3.26989850898554,2.87597940893609,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","8","fibroblast",3.25248701247484,2.83016429291576,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","9","fibroblast",3.5330907332806,2.41242675228962,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","10","fibroblast",2.72973943554463,2.28948737342508,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","11","fibroblast",2.75549008203961,0.782493557070073,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","12","chondrocyte",3.13047581946724,3.1597246666224,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","13","fibroblast",2.98915018570429,1.25339369589416,NA,NA
+"phase0_per_sample","A-07","Ctrl-3","14","fibroblast",3.36940609393424,1.90903469068545,NA,NA
+"phase0_per_sample","A-08","ONFH-3","0","fibroblast",4.99424601764759,4.56211741720821,NA,NA
+"phase0_per_sample","A-08","ONFH-3","1","fibroblast",4.07327637899355,3.42353722644337,NA,NA
+"phase0_per_sample","A-08","ONFH-3","2","fibroblast",4.69065027753487,3.79435627176308,NA,NA
+"phase0_per_sample","A-08","ONFH-3","3","chondrocyte",4.87207414829817,4.93911308309695,NA,NA
+"phase0_per_sample","A-08","ONFH-3","4","chondrocyte",4.7700818989533,6.94488360456132,NA,NA
+"phase0_per_sample","A-08","ONFH-3","5","fibroblast",4.68213196697043,4.01780928122005,NA,NA
+"phase0_per_sample","A-08","ONFH-3","6","fibroblast",5.97139179443293,5.63315667604854,NA,NA
+"phase0_per_sample","A-08","ONFH-3","7","chondrocyte",4.66729292283731,6.04759872204072,NA,NA
+"phase0_per_sample","A-08","ONFH-3","8","chondrocyte",4.66186980792667,4.7871808738892,NA,NA
+"phase0_per_sample","A-08","ONFH-3","9","chondrocyte",5.80918245537615,6.88879845467804,NA,NA
+"phase0_per_sample","A-08","ONFH-3","10","fibroblast",4.1775097200353,3.44114593969956,NA,NA
+"phase0_per_sample","A-08","ONFH-3","11","chondrocyte",5.50889998572299,6.51573452776993,NA,NA
+"phase0_per_sample","A-08","ONFH-3","12","chondrocyte",5.33349461053786,5.95723268639671,NA,NA
+"phase0_per_sample","A-08","ONFH-3","13","fibroblast",4.79480683745559,4.30400023769494,NA,NA
+"phase0_per_sample","A-08","ONFH-3","14","chondrocyte",5.17969932730961,5.67734867730836,NA,NA
+"phase05_integrated",NA,NA,"0","Chondrocyte",NA,NA,NA,"cartilage_lineage (cart_n=5, fib_n=0, top_other=5)"
+"phase05_integrated",NA,NA,"1","Chondrocyte",NA,NA,NA,"cartilage_lineage (cart_n=5, fib_n=0, top_other=5)"
+"phase05_integrated",NA,NA,"2","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=5, fib_n=5, top_other=5)"
+"phase05_integrated",NA,NA,"3","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=6, fib_n=3, top_other=6)"
+"phase05_integrated",NA,NA,"4","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=5, fib_n=3, top_other=5)"
+"phase05_integrated",NA,NA,"5","Chondrocyte",NA,NA,NA,"cartilage_lineage (cart_n=4, fib_n=0, top_other=4)"
+"phase05_integrated",NA,NA,"6","Chondrocyte",NA,NA,NA,"cartilage_lineage (cart_n=3, fib_n=0, top_other=3)"
+"phase05_integrated",NA,NA,"7","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=5, fib_n=3, top_other=5)"
+"phase05_integrated",NA,NA,"8","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=5, fib_n=5, top_other=5)"
+"phase05_integrated",NA,NA,"9","Chondrocyte",NA,NA,NA,"cartilage_fibrocartilage_candidate (cart_n=5, fib_n=4, top_other=5)"
+"phase05_integrated",NA,NA,"10","Macrophage",NA,NA,NA,"Competitive: Macrophage has 4 supportive markers vs Chondrocyte 3"
+"final_res0.4",NA,NA,"1","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,1,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,622,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,2324,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,1004,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,5,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,2049,NA
+"final_res0.4",NA,NA,"9","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,6,NA
+"final_res0.4",NA,NA,"10","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,454,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,495,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Fibrocartilage",NA,NA,173,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Fibrocartilage",NA,NA,3,NA
+"final_res0.4",NA,NA,"2","cartilage_lineage | Fibrocartilage",NA,NA,1,NA
+"final_res0.4",NA,NA,"5","cartilage_lineage | Fibrocartilage",NA,NA,2,NA
+"final_res0.4",NA,NA,"6","cartilage_lineage | Fibrocartilage",NA,NA,1,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Fibrocartilage",NA,NA,9,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,1473,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,11,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,2475,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,135,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,2,NA
+"final_res0.4",NA,NA,"9","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,1965,NA
+"final_res0.4",NA,NA,"10","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,1652,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,450,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Homeostatic",NA,NA,159,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Homeostatic",NA,NA,48,NA
+"final_res0.4",NA,NA,"1","cartilage_lineage | Homeostatic",NA,NA,127,NA
+"final_res0.4",NA,NA,"3","cartilage_lineage | Homeostatic",NA,NA,34,NA
+"final_res0.4",NA,NA,"5","cartilage_lineage | Homeostatic",NA,NA,1,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Homeostatic",NA,NA,88,NA
+"final_res0.4",NA,NA,"9","cartilage_lineage | Homeostatic",NA,NA,1,NA
+"final_res0.4",NA,NA,"0","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,5,NA
+"final_res0.4",NA,NA,"1","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,3,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,433,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,436,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,207,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,196,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,366,NA
+"final_res0.4",NA,NA,"9","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,195,NA
+"final_res0.4",NA,NA,"10","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,51,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,181,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Hypertrophic_osteogenic",NA,NA,35,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,2762,NA
+"final_res0.4",NA,NA,"1","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,887,NA
+"final_res0.4",NA,NA,"2","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,9,NA
+"final_res0.4",NA,NA,"3","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,182,NA
+"final_res0.4",NA,NA,"5","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,2,NA
+"final_res0.4",NA,NA,"6","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,1499,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Hypertrophic_osteogenic",NA,NA,335,NA
+"final_res0.4",NA,NA,"0","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,2,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,1901,NA
+"final_res0.4",NA,NA,"3","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,4,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,2088,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,62,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,84,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,88,NA
+"final_res0.4",NA,NA,"9","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,11,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,399,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Inflammatory",NA,NA,22,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Inflammatory",NA,NA,356,NA
+"final_res0.4",NA,NA,"1","cartilage_lineage | Inflammatory",NA,NA,232,NA
+"final_res0.4",NA,NA,"2","cartilage_lineage | Inflammatory",NA,NA,6,NA
+"final_res0.4",NA,NA,"3","cartilage_lineage | Inflammatory",NA,NA,354,NA
+"final_res0.4",NA,NA,"4","cartilage_lineage | Inflammatory",NA,NA,3,NA
+"final_res0.4",NA,NA,"6","cartilage_lineage | Inflammatory",NA,NA,335,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Inflammatory",NA,NA,108,NA
+"final_res0.4",NA,NA,"0","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,14,NA
+"final_res0.4",NA,NA,"1","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,12,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,943,NA
+"final_res0.4",NA,NA,"3","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,2,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,3,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,115,NA
+"final_res0.4",NA,NA,"6","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,2,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,546,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,8,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,93,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Pre_hypertrophic",NA,NA,1,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Pre_hypertrophic",NA,NA,4972,NA
+"final_res0.4",NA,NA,"1","cartilage_lineage | Pre_hypertrophic",NA,NA,3939,NA
+"final_res0.4",NA,NA,"2","cartilage_lineage | Pre_hypertrophic",NA,NA,7,NA
+"final_res0.4",NA,NA,"3","cartilage_lineage | Pre_hypertrophic",NA,NA,2178,NA
+"final_res0.4",NA,NA,"6","cartilage_lineage | Pre_hypertrophic",NA,NA,1564,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Pre_hypertrophic",NA,NA,976,NA
+"final_res0.4",NA,NA,"0","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,5,NA
+"final_res0.4",NA,NA,"1","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,6,NA
+"final_res0.4",NA,NA,"2","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,1651,NA
+"final_res0.4",NA,NA,"3","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,3,NA
+"final_res0.4",NA,NA,"4","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,94,NA
+"final_res0.4",NA,NA,"5","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,696,NA
+"final_res0.4",NA,NA,"6","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,1,NA
+"final_res0.4",NA,NA,"7","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,372,NA
+"final_res0.4",NA,NA,"8","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,273,NA
+"final_res0.4",NA,NA,"9","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,7,NA
+"final_res0.4",NA,NA,"10","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,5,NA
+"final_res0.4",NA,NA,"11","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,248,NA
+"final_res0.4",NA,NA,"12","cartilage_fibrocartilage_candidate | Undetermined",NA,NA,71,NA
+"final_res0.4",NA,NA,"0","cartilage_lineage | Undetermined",NA,NA,1218,NA
+"final_res0.4",NA,NA,"1","cartilage_lineage | Undetermined",NA,NA,3402,NA
+"final_res0.4",NA,NA,"2","cartilage_lineage | Undetermined",NA,NA,15,NA
+"final_res0.4",NA,NA,"3","cartilage_lineage | Undetermined",NA,NA,2893,NA
+"final_res0.4",NA,NA,"5","cartilage_lineage | Undetermined",NA,NA,7,NA
+"final_res0.4",NA,NA,"6","cartilage_lineage | Undetermined",NA,NA,634,NA
+"final_res0.4",NA,NA,"7","cartilage_lineage | Undetermined",NA,NA,725,NA

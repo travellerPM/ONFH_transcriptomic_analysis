@@ -1,0 +1,4 @@
+"dataset","donor_id","condition","n_cells_before_doublet_removal","n_doublets_removed","n_cells_after_doublet_removal","doublet_rate_pct"
+"GSE290411","SIONFH-1","SIONFH",23,0,23,0
+"GSE290411","SIONFH-2","SIONFH",2003,91,1912,4.54
+"GSE290411","SIONFH-3","SIONFH",86,2,84,2.33

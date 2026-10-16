@@ -1,0 +1,15 @@
+"group","donor_id","condition","n_cells","n_doublets","doublet_pct"
+"Fibrocartilage_dominant","Ctrl-1","Control",1,0,0
+"Fibrocartilage_dominant","Ctrl-2","Control",13,2,15.3846153846154
+"Fibrocartilage_dominant","Ctrl-3","Control",2,0,0
+"Fibrocartilage_dominant","ONFH-1","ONFH",2678,252,9.4100074682599
+"Fibrocartilage_dominant","ONFH-2","ONFH",2988,252,8.43373493975904
+"Fibrocartilage_dominant","ONFH-3","ONFH",1467,72,4.9079754601227
+"Other_cells","Ctrl-1","Control",5891,357,6.06009166525208
+"Other_cells","Ctrl-2","Control",15825,2008,12.6887835703002
+"Other_cells","Ctrl-3","Control",9456,976,10.321489001692
+"Other_cells","ONFH-1","ONFH",6547,618,9.43943791049336
+"Other_cells","ONFH-2","ONFH",7035,748,10.6325515280739
+"Other_cells","ONFH-3","ONFH",5407,412,7.61975217310893
+"Fibrocartilage_dominant","ALL","ALL",7149,578,8.08504685970066
+"Other_cells","ALL","ALL",50161,5119,10.2051394509679
